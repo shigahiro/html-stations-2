@@ -1,5 +1,6 @@
 @charset "utf-8";
 
 .center {
+  /* インライン要素自体は幅を持たないので、中央揃えにならないらしい */
   text-align: center;
 }
